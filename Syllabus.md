@@ -20,7 +20,7 @@ Structure of the atmosphere, Mesoscale, and Global processes.
 Aerosols in the Atmosphere.
 
 ## Part 3 of 4 (Kamal?)
-### November 7 to Nov November 18 
+### November 7 to November 18 
 Turbulence processes and aerosols.
 
 ## Part 4 of 4
