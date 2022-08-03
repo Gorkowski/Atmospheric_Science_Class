@@ -3,6 +3,9 @@
 Visiting Professor Kyle Gorkowski\
 Los Alamos National Laboratory
 
+Guest Lecture Kamal Kant Chandrakar
+University Corporation for Atmospheric Research (UCAR)
+
 # Book
 J. E. Frederick, Principles of Atmospheric Science. 2008.
 
@@ -19,15 +22,15 @@ Structure of the atmosphere, Mesoscale, and Global processes.
 ### October 3 to November 4
 Aerosols in the Atmosphere.
 
-## Part 3 of 4 (Kamal?)
+## Part 3 of 4 (Kamal's Lectures)
 ### November 7 to November 18 
-Turbulence processes and aerosols.
+Turbulence Processes and Clouds.
 
 ## Part 4 of 4
-### November 28 to Nov December 9
 Special topics \& Project Reviews
 
 # Course Evaluation
 Homeworks (40%)\
-Exams (30%)\
-Project (30%)
+Exams (25%)\
+Class Precipitations (10%)
+Project (25%)
