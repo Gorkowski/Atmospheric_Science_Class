@@ -30,4 +30,4 @@ Special topics \& Project Reviews
 # Course Evaluation
 Homeworks (40%)\
 Exams (30%)\
-Project (30%)\
+Project (30%)
