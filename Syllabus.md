@@ -1,4 +1,4 @@
-# Atmospheric Science MTU 2022
+# Atmospheric Physics MTU 2022
 
 Visiting Professor Kyle Gorkowski\
 Los Alamos National Laboratory
