@@ -28,6 +28,6 @@ Turbulence processes and aerosols.
 Special topics \& Project Reviews
 
 # Course Evaluation
-## Homeworks (40%)
-## Exams (30%)
-## Project (30%)
+Homeworks (40%)\
+Exams (30%)\
+Project (30%)\
