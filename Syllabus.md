@@ -24,7 +24,7 @@ Seinfeld, J. H., Pandis, S. N. (2016). Atmospheric Chemistry and Physics: From A
 
 J. E. Frederick, Principles of Atmospheric Science. 2008. (optional)
 
-# Programing
+# Programming
 Python- Some homework and classes will use python scripts (jupyter notebooks) on Google Colab.
 
 ## Part 1 of 4
