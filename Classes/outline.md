@@ -1,7 +1,7 @@
 # Part 1 Outline
 ## 8/29/2022 to 9/30/2022
 
-1. Introductions and Atmospheric structure [communication styles]
+1. Introductions and Atmospheric structure [Research round table]
 2. Radiation and Energy Transfer [proposal writing]
 3. Mesoscale processes, air parcels and Skew-T [proposal discussion]
 4. General Circulation [proposal discussion -b]
