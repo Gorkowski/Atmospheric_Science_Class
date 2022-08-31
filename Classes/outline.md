@@ -2,13 +2,13 @@
 ## 8/29/2022 to 9/30/2022
 
 1. Introductions and Atmospheric structure [Research round table]
-2. Radiation and Energy Transfer [proposal writing]
-3. Mesoscale processes, air parcels and Skew-T [proposal discussion]
-4. General Circulation [proposal discussion -b]
-5. Weather Systems and atmospheric rivers [proposal review-A]
+2. air parcels and Skew-T [proposal writing]
+3. Mesoscale processes, Weather Systems and atmospheric rivers [proposal discussion- a]
+4. Climate and Energy Transfer [proposal discussion -b]
+5. local climate effects [proposal review-A]
 6. Planetary Atmospheres [proposal review-A]
-7. Weather and topography and Urban effects
-8. Climate Change a historical and future perspective
+7. Climate Change a historical and future perspective
+8. 
 9. 
 10. buffer lecture [project milestone check]
 
