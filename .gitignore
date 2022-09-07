@@ -5,6 +5,7 @@ __pycache__/
 
 # ignore local development folder
 private_dev/
+*.nc
 
 # C extensions
 *.so
