@@ -17,6 +17,3 @@ This should outline how you will address the core hypothesis of you proposal.
 The first milestone should be a preliminary figure and/or analysis that will answer some aspect of your core hypothesis.
 The second milestone will answer a secondary part of your hypothesis, like a follow-up question generated from the possible results by the first milestone.
 In addition, for each milestone you should describe or identify what risks of failure in this approach and how you will adapt.
-
-
-
