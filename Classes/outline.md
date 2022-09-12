@@ -7,10 +7,10 @@
 4. Climate and Energy Transfer [proposal discussion -b]
 ### Proposal Due, Monday 9/12/22 11:59 PM
 5. local climate effects [proposal review-A]
-6. Planetary Atmospheres [proposal review-A]
+6. Solar Radiation [proposal review-A]
 ### Proposal Revisions Due, Monday 9/19/22 11:59 PM
 7. Climate Change a historical and future perspective
-8. 
+8. Planetary Atmospheres
 ### Homework 1 Due, Monday 9/26/22 11:59 PM
 9. 
 10. buffer lecture [project milestone check]
