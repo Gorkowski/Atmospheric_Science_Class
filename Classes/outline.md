@@ -6,8 +6,8 @@
 3. Mesoscale processes, Weather Systems and atmospheric rivers [proposal discussion- a]
 4. Climate and Energy Transfer [proposal discussion -b]
 ### Proposal Due, Monday 9/12/22 11:59 PM
-5. local climate effects [proposal review-A]
-6. Solar Radiation [proposal review-A]
+5. proposal review
+6. Solar Radiation
 ### Proposal Revisions Due, Monday 9/19/22 11:59 PM
 7. Climate Change a historical and future perspective
 8. Planetary Atmospheres
