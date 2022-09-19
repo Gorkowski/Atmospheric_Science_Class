@@ -1,4 +1,4 @@
-# Proposal Revisions Due, Monday 9/19/22 11:59 PM (emailed to kjgorkow@mtu.edu)
+# Proposal Revisions Due, Tuesday 9/20/22 11:59 PM (emailed to kjgorkow@mtu.edu)
 
 Revise the proposal based on the feedback from in class discussion and the feedback.
 
