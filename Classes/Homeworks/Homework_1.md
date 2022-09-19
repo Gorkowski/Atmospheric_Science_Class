@@ -52,3 +52,14 @@ For the 800,000 years ago to 1000 year ago dataset answer the flowing questions:
 2. Is methane and temperature correlated?
 3. What is the correlation coefficient?
 4. What is the mean methane concentration for this period? and how does it compare to current concentration?
+
+## S&P Ch04 problem 4.1
+For a global mean albedo of Rp = 0.3, show that the equilibrium temperature of
+the Earth (assuming no atmospheric absorption of outgoing infrared radiation) is
+about 255 K. For Rp =0.15, show that the equilibrium temperature is 268 K.
+Calculate the variation in solar constant and in global albedo corresponding to a
+change of 0.5 K in temperature.
+
+## Radiation
+1. In terms of radiation, what is meant by the atmospheric window?
+2. The spectral region from about 7 to 13 μm is a window region; nearly 80% of the radiation emitted by the Earth in this region escapes to space. What is the reason for this? If this region were not a window, what would happen to the Earth’s temperature? 

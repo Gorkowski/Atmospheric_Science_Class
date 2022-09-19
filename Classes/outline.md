@@ -8,10 +8,10 @@
 ### Proposal Due, Monday 9/12/22 11:59 PM
 5. proposal review
 6. Solar Radiation, CO2 and cloud in climate models
-### Proposal Revisions Due, Monday 9/19/22 11:59 PM
+### Proposal Revisions Due, Tuesday 9/20/22 11:59 PM
 7. Climate Change a future perspective
 8. Planetary Atmospheres
-### Homework 1 Due, Monday 9/26/22 11:59 PM
+### Homework 1 Due, Tuesday 9/27/22 11:59 PM
 9. 
 10. buffer lecture [project milestone check]
 
