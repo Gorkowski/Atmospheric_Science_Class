@@ -16,11 +16,11 @@ data = WyomingUpperAir.request_data(site_id=station, time=date)
 
 Create the skew-t plot (with temperature and dew point temperature) and answer the following questions: 
 1. What is the mean lapse rate form 1000 hPa to 600 hPa? and is this layer of the atmosphere stable or unstable or neutral?
-2. From 600 hPa to 300 hPa, does and air parcel follow a moist adiabatic path or a dry adiabatic path?
+2. From 600 hPa to 300 hPa, does an air parcel follow a moist adiabatic path or a dry adiabatic path?
 3. In the dew point temperature curve, what process is occurring in the the dip in temperature at 500 hPa (650 hPa to 450 hPa)?
 4. In the dew point temperature curve, what process is occurring in the the dip in temperature at 300 hPa?
 
-Calculate the potential temperature curve form the temperature and pressure data. Plot the potential temperature and temperature curve on a new skew-t plot. Why does the potential temperature curve not follow the temperature curve but instead diverges from it after 600 hPa?
+Calculate the potential temperature curve from the temperature and pressure data. Plot the potential temperature and temperature curve on a new skew-t plot. Why does the potential temperature curve not follow the temperature curve but instead diverges from it after 600 hPa?
 
 
 
