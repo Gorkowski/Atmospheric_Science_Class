@@ -1,4 +1,6 @@
 # Homework 1 Due, Tuesday 9/27/22 11:59 PM
+Email a pdf of your homework to kjgorkow@mtu.edu
+If you have written work, scan it with an app like camscanner to generate a pdf.
 
 ## 1. Air Parcels and Skew-T
 
