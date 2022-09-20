@@ -47,7 +47,7 @@ Special topics \& Project Reviews
 # Course Evaluation
 Homeworks (25%)\
 Exams and Quizzes (25%)\
-Class Precipitations (10%)\
+Class Participation (10%)\
 Project (40%)
 
 ## No Final Exam
