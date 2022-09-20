@@ -9,37 +9,41 @@
 5. proposal review
 6. Solar Radiation, CO2 and cloud in climate models
 ### Proposal Revisions Due, Tuesday 9/20/22 11:59 PM
-7. Climate Change a future perspective
-8. Planetary Atmospheres
+7. Clouds and modeling scales
+8. Tipping points and Geoengineering and Geopolitics 
 ### Homework 1 Due, Tuesday 9/27/22 11:59 PM
-9. 
-10. buffer lecture [project milestone check]
+9. Planetary atmospheres
+10. Aerosols and Radiation
 
 # Part 2 Outline
 ## 10/03/2022 to 11/04/2022
 1. Aerosols processes nucleation, condensation, and coagulation
 2. Aerosol sources and trace gases
-### Milestone Due, Thursday October 10/6/22 11:59 PM
+### Milestone Due, October 10/10/22 11:59 PM
 3. Atmospheric reactions and Plumes [project Figures discussion A]
 4. Urban Aerosols [project Figures discussion B]
-### Homework 2 Due, Monday 10/17/22 11:59 PM
+### Homework 2 Due, 10/18/22 11:59 PM
 5. Global radiation and Smoke Plumes
-6.
-### Milestone Revision Due, Thursday October 10/20/22 11:59 PM
+6. 
 7. Special Topic A
-8.
-### Exam 1, Monday 11/1/22 in class
-10.
+8. 
 
-# Part 3 Outline
-1.
+9. **Exam 1, Tuesday 11/1/22 in class**
+10. 
+
+### Milestone 2 Due, Tuesday Nov. 11/08/22 11:59 PM
+
+# Part 3 Outline (Kamal's Lectures)
+1. Turbulence and Clouds 
 2.
 3.
-4.
+4. Turbulence and Clouds **Quiz 11/17/22**
 
 # Part 4 Outline
 
 1. Special Topic B
-2. Special Topic C
-3. Project Review A
-4. Project Review B
+2. *Project Presentation*
+3. *Project Presentation*
+4. Special Topic B
+
+# Project report due 12/9/22 11:59 PM
