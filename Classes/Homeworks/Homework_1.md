@@ -30,7 +30,7 @@ has a density of 0.85 g cm- 3 . Assume that combustion of CgH18 leads to CO2 and
 H2O. How many kilograms of CO2 does your driving contribute to the atmosphere
 each year?
 
-**b.** If you drive an electric car, how many kilograms of CO2 does your driving contribute to the atmosphere each year?
+**b.** If you drive an electric car (using the same amount of total energy as the gasoline car), how many kilograms of CO2 does your driving contribute to the atmosphere each year?
 Assume that the electric car is 80% efficient in converting electricity to motion and that the gasoline car is 20% efficient in converting gasoline to motion.
 Calculate based on two different energy sources for the electric car: 100% coal or 100% natural gas. 
 *State the sources of the possible missing information you used to make your calculations.*
