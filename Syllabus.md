@@ -51,3 +51,5 @@ Class Participation (10%)\
 Project (40%)
 
 ## No Final Exam
+
+### The class will follow the MTU student handbook for the unlisted categories, like academic integrity, etc.

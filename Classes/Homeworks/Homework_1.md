@@ -20,8 +20,7 @@ Create the skew-t plot (with temperature and dew point temperature) and answer t
 3. In the dew point temperature curve, what process is occurring in the the dip in temperature at 500 hPa (650 hPa to 450 hPa)?
 4. In the dew point temperature curve, what process is occurring in the the dip in temperature at 300 hPa?
 
-Calculate the potential temperature curve from the temperature and pressure data. Plot the potential temperature and temperature curve on a new skew-t plot. Why does the potential temperature curve not follow the temperature curve but instead diverges from it after 600 hPa?
-
+~~Calculate the potential temperature curve from the temperature and pressure data. Plot the potential temperature and temperature curve on a new skew-t plot. Why does the potential temperature curve not follow the temperature curve but instead diverges from it after 600 hPa?~~
 
 
 ## S&P Ch01 problem 1.5 (plus add-ons)
