@@ -12,8 +12,8 @@
 7. Clouds and modeling scales
 8. Tipping points and Geoengineering and Geopolitics 
 ### Homework 1 Due, Tuesday 9/27/22 11:59 PM
-9. Planetary atmospheres
-10. Aerosols and Radiation
+9. Radiation and Mie scattering
+10. Aerosols and single particle properties
 
 # Part 2 Outline
 ## 10/03/2022 to 11/04/2022
