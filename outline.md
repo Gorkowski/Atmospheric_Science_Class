@@ -12,21 +12,20 @@
 7. Clouds and modeling scales
 8. Tipping points and Geoengineering and Geopolitics 
 ### Homework 1 Due, Tuesday 9/27/22 11:59 PM
-9. Radiation and Mie scattering
-10. Aerosols and single particle properties
-
 # Part 2 Outline
 ## 10/03/2022 to 11/04/2022
-1. Aerosols processes nucleation, condensation, and coagulation
-2. Aerosol sources and trace gases
+1. Radiation and Mie scattering
+2. Aerosols and single particle properties
+3. Aerosols processes nucleation, condensation, and coagulation
+4. Aerosol sources and trace gases
 ### *Milestone Due 1, October 10/10/22 11:59 PM*
-3. Atmospheric reactions and Plumes [project Figures discussion A]
-4. Urban Aerosols [project Figures discussion B]
+5. Atmospheric reactions and Plumes [project Figures discussion A]
+6. Urban Aerosols [project Figures discussion B]
 ### Homework 2 Due, 10/18/22 11:59 PM
-5. Global radiation and Smoke Plumes
-6. 
-7. Special Topic A
+7. Global radiation and Smoke Plumes
 8. 
+9. Special Topic A
+10. 
 
 9. **Exam 1, Tuesday 11/1/22 in class**
 10. 
