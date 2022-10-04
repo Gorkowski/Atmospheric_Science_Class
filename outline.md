@@ -13,16 +13,16 @@
 8. Tipping points and Geoengineering and Geopolitics 
 ### Homework 1 Due, Tuesday 9/27/22 11:59 PM
 # Part 2 Outline
-## 10/03/2022 to 11/04/2022
+## 09/27/2022 to 11/04/2022
 1. Radiation and Mie scattering
-2. Aerosols and single particle properties
-3. Aerosols processes nucleation, condensation, and coagulation
-4. Aerosol sources and trace gases
-### *Milestone Due 1, October 10/10/22 11:59 PM*
-5. Atmospheric reactions and Plumes [project Figures discussion A]
-6. Urban Aerosols [project Figures discussion B]
+2. Aerosols and single particle properties (in complete)
+3. python: Mie scattering (in complete)
+4. python: Mie scattering cont. and Gas-particle interactions
+### *Milestone Due 1, October 10/11/22 11:59 PM*
+5. Single particle prop cont. and Aerosols processes nucleation, condensation, and coagulation
+6. Project discussion
 ### Homework 2 Due, 10/18/22 11:59 PM
-7. Global radiation and Smoke Plumes
+7. Aerosol processes cont.
 8. 
 9. Special Topic A
 10. 
