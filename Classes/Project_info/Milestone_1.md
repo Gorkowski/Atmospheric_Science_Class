@@ -11,5 +11,5 @@ Does your Milestone 2 need to be adjusted?
 
 
 ## Milestone Figure (1 page, with caption)
-Could be a single or multiple panel figure or a table or a combination.
+Could be a single or multiple panel figure or a table or a combination. The figure should be a summary of your work to date or preliminary results to show. 
 
