@@ -9,9 +9,11 @@ Using the `PyMieScatt` python package create the following plots. Use the Part2/
 
 # Single particle
 1a. [10 pt] For the three refractive indices m = 1.5 + 0j, m = 2 + 0j, m = 2.5 + 0j. Plot the wavelength of the maximum Mie extinction efficiency (Qext) as a function of particle radius (Dp = 10 nm to 1000 nm, step_size = 10 nm). Within the 100 nm to 5,000nm wavelength range.
+
 1b. [5 pt] comment on and summarize the relationship between the maximum Mie extinction efficiency and the particle radius. How does the refractive index change this relationship?
 
 2a. [10 pt] For the three refractive indices m = 1.5 + 0.1j, m = 1.5 + 0.5j, m = 1.5 + 1.5j,  m = 2 + 1.5j. Create similar plots as in problem 1 but for each of the Mie efficiencies (Qext, Qsca, Qabs) as a function of particle radius (Dp = 10 nm to 1000 nm, step_size = 10 nm). Within the 100 nm to 5,000nm wavelength range. I'm expecting 3 plots, one for each of the efficiencies.
+
 2b. [5 pt] comment on and summarize the relationship between the wavelength and size there maximum absorption? How does the refractive index change this relationship? [I might change these values after I test this problem]
 
 # Distribution of particles [to be updated]
