@@ -1,5 +1,5 @@
 {
-    "python.linting.pylintEnabled": true,
+    "python.linting.pylintEnabled": false,
     "python.linting.enabled": true,
     "spellright.language": [
         "en"
@@ -9,5 +9,6 @@
         "latex",
         "plaintext",
         "python"
-    ]
+    ],
+    "python.linting.flake8Enabled": true
 }

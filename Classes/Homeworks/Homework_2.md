@@ -12,9 +12,12 @@ Using the `PyMieScatt` python package create the following plots. Use the Part2/
 
 1b. [5 pt] comment on and summarize the relationship between the maximum Mie extinction efficiency and the particle radius. How does the refractive index change this relationship?
 
-2a. [10 pt] For the three refractive indices m = 1.5 + 0.1j, m = 1.5 + 0.5j, m = 1.5 + 1.5j,  m = 2 + 1.5j. Create similar plots as in problem 1 but for each of the Mie efficiencies (Qext, Qsca, Qabs) as a function of particle radius (Dp = 10 nm to 1000 nm, step_size = 10 nm). Within the 100 nm to 5,000nm wavelength range. I'm expecting 3 plots, one for each of the efficiencies.
+2a. [10 pt] For the three refractive indices m = 1.5 + 0.1j, m = 1.5 + 0.5j, m = 1.5 + 1.5j,  m = 1.7 + 0.5j. Create similar plots as in problem 1 but for each of the Mie efficiencies (Qext, Qsca, Qabs) as a function of particle diameter (Dp = 10 nm to 1000 nm, using 100 steps). Within the 10 nm to 2,500nm wavelength range, 200 wavelength samples, and logW=True.
 
-2b. [5 pt] comment on and summarize the relationship between the wavelength and size there maximum absorption? How does the refractive index change this relationship? [I might change these values after I test this problem]
+In addition add a 1:1 line to the plot. I'm expecting 3 plots, one for each of the efficiencies.
+Note: This took 1 minute to run on my computer, for debugging purposes you can reduce the number of diameter steps.
+
+2b. [5 pt] comment on and summarize the relationship between the wavelength and size there for these three cases? How does the refractive index change this relationship?
 
 # Distribution of particles [to be updated]
 3a. [15 pt] For a lognormal distribution of particles calculate the wavelength of maximum extinction, scattering, and absorption coefficients (Bext, Bsac, Babs) for the following parameters.
