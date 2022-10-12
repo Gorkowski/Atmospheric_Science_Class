@@ -28,7 +28,7 @@ Note: This took 1 minute to run on my computer, for debugging purposes you can r
 
 
 - 3 plots with 3 lines in each (plus 1:1 line).
-    * m = 1.5 + 0.1j, 1.5 + 0.5j, 2.0 + 0.5j, 2.0 + 0j
+    * m = 1.5 + 0.1j, 1.5 + 0.5j, 1.7 + 0.5j
     * distribution geometric sigma = 1.5
 
 - Parameters
