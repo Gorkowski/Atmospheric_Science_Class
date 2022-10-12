@@ -19,21 +19,26 @@ Note: This took 1 minute to run on my computer, for debugging purposes you can r
 
 2b. [5 pt] comment on and summarize the relationship between the wavelength and size there for these three cases? How does the refractive index change this relationship?
 
-# Distribution of particles [to be updated]
-3a. [15 pt] For a lognormal distribution of particles calculate the wavelength of maximum extinction, scattering, and absorption coefficients (Bext, Bsac, Babs) for the following parameters.
+# Distribution of particles
+3a. [15 pt] For a lognormal distribution of particles calculate the wavelength of maximum extinction, scattering, or absorption coefficients (Bext, Bsac, Babs) for the following parameters.
 
--3 plots with 3 lines in each.
-
-    * m = 1.5 + 0j
-    * distribution mean = 50 to 500 nm, step_size = 10 nm
+- 3 plots with 3 lines (plus 1:1 line).
+    * m = 1.5 + 0.1j
     * distribution geometric sigma = 1.25, 1.5, 2 
-    * max (Bext, Bsac, Babs) value within the 100 nm to 5,000 nm wavelength range.
 
--3 plots with 4 lines in each.
 
-    * m = 1.5 + 0j, 1.5 + 0.5j, 2.0 + 0.5j, 2.0 + 0j
-    * distribution mean = 50 to 500 nm, step_size = 10 nm
+- 3 plots with 3 lines in each (plus 1:1 line).
+    * m = 1.5 + 0.1j, 1.5 + 0.5j, 2.0 + 0.5j, 2.0 + 0j
     * distribution geometric sigma = 1.5
-    * max (Bext, Bsac, Babs) value within the 100 nm to 5,000 nm wavelength range.
+
+- Parameters
+    * wavelength: logspace 10 nm to 1000 nm with 100 steps
+    * distribution: lognormal 
+    * distribution mean: linspace, 50 to 500 nm, with 20 steps
+    * number of particles: 1000
+    * distribution lower size limit: 10 nm, distribution upper size limit: 5000 nm
+
+- Note: For both of these sets, my code took 2.5 minutes to run, for debugging purposes you can reduce the number of steps.
+
 
 3b [5 pt] comment on and summarize the relationship between these plots. Also compare the results to problem 1.
