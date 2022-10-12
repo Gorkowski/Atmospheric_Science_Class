@@ -1,4 +1,4 @@
-# Milestone Due, Thursday October 10/11/22 11:59 PM (emailed to kjgorkow@mtu.edu)
+# Milestone Due, Thursday October 10/13/22 11:59 PM (emailed to kjgorkow@mtu.edu)
 
 ## Milestone Discussion and Description (1 page, 12 pt font, 1 inch margins)
 Should address the following questions:
