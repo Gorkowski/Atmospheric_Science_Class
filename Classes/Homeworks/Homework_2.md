@@ -5,7 +5,7 @@ Include your name.
 
 
 ## PyMieScatt
-Using the `PyMieScatt` python package create the following plots. Use the Part2/LecMie.ipynb notebook to help you.
+Using the `PyMieScatt` python package create the following plots. Use the [Mie_lecture](https://github.com/Gorkowski/Atmospheric_Science_Class/blob/main/Classes/Part2/Lec_Mie.ipynb) notebook to help you.
 
 # Single particle
 1a. [10 pt] For the three refractive indices m = 1.5 + 0j, m = 2 + 0j, m = 2.5 + 0j. Plot the wavelength of the maximum Mie extinction efficiency (Qext) as a function of particle radius (Dp = 10 nm to 1000 nm, step_size = 10 nm). Within the 100 nm to 5,000nm wavelength range.
