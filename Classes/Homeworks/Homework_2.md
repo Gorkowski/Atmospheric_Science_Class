@@ -9,6 +9,7 @@ Using the `PyMieScatt` python package create the following plots. Use the [Mie_l
 
 # Single particle
 1a. [10 pt] For the three refractive indices m = 1.5 + 0j, m = 2 + 0j, m = 2.5 + 0j. Plot the wavelength of the maximum Mie extinction efficiency (Qext) as a function of particle diameter (Dp = 10 nm to 1000 nm, step_size = 10 nm). Within the 100 nm to 5,000nm wavelength range.
+Note: The plot should be wavelength on the y-axis (corresponding to the max Qext) and particle diameter on the x-axis.
 
 1b. [5 pt] comment on and summarize the relationship between the maximum Mie extinction efficiency and the particle diameter. How does the refractive index change this relationship?
 
