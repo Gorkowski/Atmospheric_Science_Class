@@ -41,4 +41,4 @@ Note: This took 1 minute to run on my computer, for debugging purposes you can r
 - Note: For both of these sets, my code took 2.5 minutes to run, for debugging purposes you can reduce the number of steps.
 
 
-3b [5 pt] comment on and summarize the relationship between these plots. Also compare the results to problem 1.
+3b [5 pt] comment on and summarize the relationship between these plots. Also compare the results to problem 1 and 2.
