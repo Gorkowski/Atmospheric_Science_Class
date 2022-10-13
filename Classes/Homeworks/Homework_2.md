@@ -40,6 +40,6 @@ Note: This took 1 minute to run on my computer, for debugging purposes you can r
     * distribution lower size limit: 10 nm, distribution upper size limit: 5000 nm
 
 - Note: For both of these sets, my code took 2.5 minutes to run, for debugging purposes you can reduce the number of steps.
-
+The plot should be wavelength on the y-axis (corresponding to the max Bext or Bsca, or Babs) and geometric mean diameter on the x-axis.
 
 3b [5 pt] comment on and summarize the relationship between these plots. Also compare the results to problem 1 and 2.
