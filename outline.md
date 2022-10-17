@@ -20,16 +20,16 @@
 4. python: Mie scattering cont. and Gas-particle interactions
 ### *Milestone Due 1, October 10/11/22 11:59 PM*
 5. Single particle prop cont. and aerosol coagulation
-6. aerosol nucleation and condensation
+6. coagulation and terminal velocity
 ### Homework 2 Due, 10/18/22 11:59 PM
 
-7. Aerosol processes combined (physical and optical properties and cloud)
-8. Milestone discussion
+7. Condensation and nucleation
+8. Aerosol processes combined (physical and optical properties)
 
 ### Homework 3 Due, 10/25/22 11:59 PM
 
-9. Ion charging effects and chamber experiments
-10. 
+9. Milestone Discussion and chamber experiments
+10. Ion charging effects and chamber experiments
 
 9. **Exam 1, Tuesday 11/1/22 in class**
 10. 
