@@ -17,7 +17,7 @@ Consider a lognormal aerosol number size distribution with the following paramet
 Find the number of particles whose diameters are 180 nm < Dp < 400 nm.
 
  
-## 2. [20 pt]  Lognormal Distributions
+## 2. [25 pt]  Lognormal Distributions
 
 During a portion of a cruise in the North Atlantic, polluted air was encountered [Van Dingenen, R., F. Raes, and N. R. Jensen, Evidence for anthropogenic impact on number concentration and sulfate content of cloud-processed aerosol particles over the North Atlantic, Journal of Geophysical Research, 100, 21,057-21,067, 1995].  At this time, the aerosol size distribution was bimodal.  Van Dingenen et al. present the following lognormal parameters to describe the modes:
 
@@ -28,26 +28,26 @@ During a portion of a cruise in the North Atlantic, polluted air was encountered
 * Dpg2 = 190 nm
 * g_sigma2 = 1.5
 
-a) Plot the total number size distribution on a log Dp scale from 10 nm to 10 nm diameter.
+a) [5 pt] Plot the total number size distribution on a log Dp scale from 10 nm to 10 nm diameter.
 
-b) Calculate (don’t do this graphically) the volume median diameter of the larger mode.  
+b) [3 pt] Calculate (don’t do this graphically) the volume median diameter of the larger mode.  
 
-c) Plot the volume size distribution on another log Dp scale from 10 nm to 10 nm diameter.
+c) [5 pt] Plot the volume size distribution on another log Dp scale from 10 nm to 10 nm diameter.
 
-d) Compare your answer from (b) to the plot from (c) to check your results.
+d) [2 pt] Compare your answer from (b) to the plot from (c) to check your results.
 
-e) Graphically from these plot, do you think the volume median diameter of the larger mode is a good approximation for the volume median diameter of the entire distribution?
+e) [2 pt] Graphically from these plots, do you think the volume median diameter of the larger mode is a good approximation for the volume median diameter of the entire distribution?
 
-f) Estimate the PM2.5 mass concentration.  You may do this numerically or graphically.  Assume a density of 1.5 g cm-3.
+f) [5 pt] Estimate the PM2.5 mass concentration.  You may do this numerically or graphically.  Assume a density of 1.5 g cm-3.
 
-g) Find the number of particles with diameters smaller than 50 nm.
+g) [3 pt] Find the number of particles with diameters smaller than 50 nm.
 
 
-## 3. [10 pt] Fitting a Lognormal Distribution
+## 3. [15 pt] Fitting a Lognormal Distribution
 
 Particles are lognormally distributed such that 8% of the number of particles have Dp > 3 microns, while 99.87% of the number of particles have Dp > 0.3 microns.  The total number concentration of particles is 100 cm-3.
 
-a) Use the given information to fit a lognormal distribution to this data.
+a) [10 pt] Use the given information to fit a lognormal distribution to this data.
 
-b) Find the surface median diameter.
+b) [5 pt] Find the surface median diameter.
 
