@@ -24,12 +24,12 @@
 ### Homework 2 Due, 10/18/22 11:59 PM
 
 7. Condensation and nucleation
-8. Aerosol processes combined (physical and optical properties)
+8. Size distributions and histograms and picking special topics
 
 ### Homework 3 Due, 10/25/22 11:59 PM
 
-9. Milestone Discussion and chamber experiments
-10. Ion charging effects and chamber experiments
+9. Milestone Discussion
+10. Water activity and hygroscopicity calculations
 
 9. **Exam 1, Tuesday 11/1/22 in class**
 10. 
@@ -40,7 +40,7 @@
 1. Turbulence and Clouds 
 2.
 3.
-4. Turbulence and Clouds **Quiz 11/17/22**
+4. Turbulence and Clouds **Homework 11/17/22**
 
 # Part 4 Outline
 
