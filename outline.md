@@ -10,7 +10,7 @@
 6. Solar Radiation, CO2 and cloud in climate models
 ### *Proposal Revisions Due, Tuesday 9/20/22 11:59 PM*
 7. Clouds and modeling scales
-8. Tipping points and Geoengineering and Geopolitics 
+8. Tipping points and Geoengineering 
 ### Homework 1 Due, Tuesday 9/27/22 11:59 PM
 # Part 2 Outline
 ## 09/27/2022 to 11/04/2022
@@ -24,21 +24,22 @@
 ### Homework 2 Due, 10/18/22 11:59 PM
 
 7. Condensation and nucleation
-8. Size distributions and histograms and picking special topics
+8. Size distributions and histograms and review questions
 
 ### Homework 3 Due, 10/25/22 11:59 PM
 
 9. Milestone Discussion
-10. Water activity and hygroscopicity calculations
+10. Discussion cont. and water activity and hygroscopicity calculations
 
 9. **Exam 1, Tuesday 11/1/22 in class**
-10. 
-
-### *Milestone 2 Due, Tuesday Nov. 11/08/22 11:59 PM*
+10. thunderstorms and lightning
 
 # Part 3 Outline (Kamal's Lectures)
 1. Turbulence and Clouds 
 2.
+
+### *Milestone 2 Due, Tuesday Nov. 11/15/22 11:59 PM*
+
 3.
 4. Turbulence and Clouds **Homework 11/17/22**
 

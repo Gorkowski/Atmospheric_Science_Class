@@ -28,11 +28,11 @@ During a portion of a cruise in the North Atlantic, polluted air was encountered
 * Dpg2 = 190 nm
 * g_sigma2 = 1.5
 
-a) [5 pt] Plot the total number size distribution on a log Dp scale from 10 nm to 10 nm diameter.
+a) [5 pt] Plot the total number size distribution on a log Dp scale from 10 nm to 10 um diameter.
 
 b) [3 pt] Calculate (don’t do this graphically) the volume median diameter of the larger mode.  
 
-c) [5 pt] Plot the volume size distribution on another log Dp scale from 10 nm to 10 nm diameter.
+c) [5 pt] Plot the volume size distribution on another log Dp scale from 10 nm to 10 um diameter.
 
 d) [2 pt] Compare your answer from (b) to the plot from (c) to check your results.
 
