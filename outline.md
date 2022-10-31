@@ -31,8 +31,8 @@
 9. Milestone Discussion
 10. Discussion cont. and water activity and hygroscopicity calculations
 
-9. **Exam 1, Tuesday 11/1/22 in class**
-10. thunderstorms and lightning
+9. Lightning
+10. **Exam 1, 11/3/22 in class**
 
 # Part 3 Outline (Kamal's Lectures)
 1. Turbulence and Clouds 
