@@ -46,8 +46,8 @@
 # Part 4 Outline
 
 1. Special Topic B
-2. *Project Presentation*
+2. Special Topic C
 3. *Project Presentation*
-4. Special Topic B
+4. *Project Presentation*
 
 # Project report due 12/9/22 11:59 PM
