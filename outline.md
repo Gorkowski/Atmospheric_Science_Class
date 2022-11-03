@@ -38,7 +38,7 @@
 1. Turbulence and Clouds 
 2.
 
-### *Milestone 2 Due, Tuesday Nov. 11/15/22 11:59 PM*
+### ~*Milestone 2 Due, Tuesday Nov. 11/15/22 11:59 PM*~
 
 3.
 4. Turbulence and Clouds **Homework 11/17/22**
