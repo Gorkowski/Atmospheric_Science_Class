@@ -38,16 +38,16 @@
 1. Turbulence and Clouds 
 2.
 
-### ~*Milestone 2 Due, Tuesday Nov. 11/15/22 11:59 PM*~
+### ~~*Milestone 2 Due, Tuesday Nov. 11/15/22 11:59 PM*~~
 
 3.
-4. Turbulence and Clouds **Homework 11/17/22**
+4. Turbulence and Clouds **Homework 12/1/22**
 
 # Part 4 Outline
 
-1. Special Topic B
-2. Special Topic C
-3. *Project Presentation*
-4. *Project Presentation*
+1. Review and Class Discussion
+2. Kamal follow-up lecture
+3. *Project Presentation* 12/6/22
+4. *Project Presentation* 12/8/22
 
 # Project report due 12/9/22 11:59 PM
